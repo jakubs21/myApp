@@ -1,19 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bde35d5-7b4d-4724-bc08-259dfbfa2ec5" name="Default Changelist" comment="" />
+    <list default="true" id="6bde35d5-7b4d-4724-bc08-259dfbfa2ec5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Y71oOg74MD5RxJfvFvqC9xhM4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="trening" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="trening" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Unnamed" />
+      <item itemvalue="Application.MainApp" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -41,9 +94,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1368" y="179" key="#Project_Structure" timestamp="1582279929705">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="179" key="#Project_Structure/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582279929705" />
+    <state x="-1243" y="179" key="#Unnamed" timestamp="1582280923537">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1243" y="179" key="#Unnamed/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582280923537" />
+    <state x="-1506" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582280564634">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582280564634" />
+    <state x="-1231" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582280919643">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582280919643" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582297228294">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582297228294" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582297228294">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582297228294" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582297228294">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582297228294" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582297228294">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582297228294" />
     <state x="-1242" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1582279006355">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1242" y="285" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582279006355" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582282613410">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582282613410" />
   </component>
 </project>
